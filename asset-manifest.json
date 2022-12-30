@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/23bithDay/static/css/main.f28338e2.css",
+    "main.js": "/23bithDay/static/js/main.b8b6604e.js",
+    "static/media/BMYEONSUNG_ttf.ttf": "/23bithDay/static/media/BMYEONSUNG_ttf.7236017a8a6657039c85.ttf",
+    "static/media/생인컷네.png": "/23bithDay/static/media/생인컷네.0953b59cad3d5a9ab40e.png",
+    "static/media/BMHANNAAir_ttf.ttf": "/23bithDay/static/media/BMHANNAAir_ttf.d0c38d74f11fd837be79.ttf",
+    "static/media/이태원.jpeg": "/23bithDay/static/media/이태원.bfaf07b0538ce3407ad7.jpeg",
+    "static/media/보랑.jpeg": "/23bithDay/static/media/보랑.3a351b242ea0b879e9d3.jpeg",
+    "static/media/나없을때.jpeg": "/23bithDay/static/media/나없을때.baefdd0fa091b05c92c2.jpeg",
+    "static/media/하회탈.jpeg": "/23bithDay/static/media/하회탈.e4e4f531ebe7d2abbbd4.jpeg",
+    "static/media/Nickainley-Normal.ttf": "/23bithDay/static/media/Nickainley-Normal.2a264addd8300fd03c2b.ttf",
+    "static/media/AlexBrush-Regular.ttf": "/23bithDay/static/media/AlexBrush-Regular.b50947ef756f43126a52.ttf",
+    "index.html": "/23bithDay/index.html",
+    "main.f28338e2.css.map": "/23bithDay/static/css/main.f28338e2.css.map",
+    "main.b8b6604e.js.map": "/23bithDay/static/js/main.b8b6604e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f28338e2.css",
+    "static/js/main.b8b6604e.js"
+  ]
+}
